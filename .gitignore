@@ -3,3 +3,4 @@ bin
 appsettings.json
 *.db
 docker-compose.yml
+*.rdb
